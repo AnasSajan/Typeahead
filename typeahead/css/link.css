@@ -1,0 +1,9 @@
+#the-basics{
+    font-size: 3em;
+}
+.tt-suggestion .tt-selectable{
+    margin-right: 50px;
+}
+.typeahead{
+    border-radius: 10px;
+}
